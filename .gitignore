@@ -1,0 +1,8 @@
+# Pastas de ambiente e logs
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+
+# Arquivos de sistema
+.DS_Store
